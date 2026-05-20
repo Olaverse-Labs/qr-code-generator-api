@@ -1,5 +1,7 @@
 # QR Code Generator API
 
+[![Olaverse API](https://img.shields.io/badge/Olaverse-API%20Doc-blue?style=flat-square)](https://www.olaverse.co.uk/qr-code-api) [![Try on Vibeland](https://img.shields.io/badge/Vibeland-Try%20Live-orange?style=flat-square)](https://www.vibeland.co.uk/tools/qr-code)
+
 A simple and customizable QR Code Generator API built with FastAPI and Python.
 
 ## Features
